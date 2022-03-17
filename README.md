@@ -3,7 +3,9 @@
 
 Copyright 2021 Vector Informatik GmbH
 
-Lightweight implementation of the ASAM XCP Protocol Layer V1.4.
+Lightweight implementation of the ASAM XCP Protocol Layer V1.4. 
+New to XCP? Check out Vector´s XCP Reference Book: https://www.vector.com/int/en/know-how/protocols/xcp-measurement-and-calibration-protocol/xcp-book#
+or visit the Vector E-Learning platform: https://elearning.vector.com/?lang=en
 
 Supports Linux 32/64 Bit and Windows 32/64 Bit.
 Posix and Windows Sockets or Vector VN5xxx automotive Ethernet devices.
